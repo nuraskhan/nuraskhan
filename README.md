@@ -11,7 +11,7 @@
 - ⚡ **Scale** — services handling **1M+ requests per minute** at [Kaspi.kz](https://kaspi.kz)
 - 📨 **Messaging** — Kafka layer with exactly-once delivery, **15% lower latency** for millions of users
 - 🧩 **Now** — Lead Integration Engineer at [IT Space](https://itspace.kz): event-driven microservices, e-Government integrations
-- 🎓 **Background** — BSc Computer Science, SDU · Top 21 in Kazakhstan's National Mathematics Olympiad
+- 🎓 **Background** — BSc Computer Science, SDU · III Degree Diploma, Kazakhstan's National Mathematics Olympiad
 
 <div align="center">
 
