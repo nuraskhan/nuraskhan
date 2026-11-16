@@ -1,64 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5a2b,100:2b2118&height=180&section=header&text=Nuraskhan%20Aldongarov&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Nuraskhan Aldongarov" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a5a2b,100:2b2118&height=120&section=header&text=Nuraskhan%20Aldongarov&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Nuraskhan Aldongarov" width="100%" />
 
-<a href="https://github.com/nuraskhan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8A5A2B&center=true&vCenter=true&width=640&lines=Backend+Engineer;Distributed+systems+and+microservices;Event-driven+architectures;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+RabbitMQ" alt="Backend Engineer. Distributed systems and microservices. Event-driven architectures." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8A5A2B&center=true&vCenter=true&width=520&height=32&lines=Backend+Engineer;Distributed+systems+at+scale;Event-driven+architectures" alt="Backend Engineer. Distributed systems at scale. Event-driven architectures." />
 
-<br />
+Backend engineer building high-load distributed systems in Java.<br />
+At <a href="https://kaspi.kz">Kaspi.kz</a> I built services handling <b>1M+ requests per minute</b> and a Kafka messaging layer
+with exactly-once delivery that cut inter-service latency by <b>15%</b> for millions of users.<br />
+Now Lead Integration Engineer at <a href="https://itspace.kz">IT Space</a>: event-driven microservices
+(CQRS, Event Sourcing, Transactional Outbox) and e-Government integrations.<br />
+BSc Computer Science, SDU · Top 21 in Kazakhstan's National Mathematics Olympiad.
 
-<a href="https://www.linkedin.com/in/nuraskhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nurashanaldongarov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=nuraskhan&label=Profile%20views&color=8a5a2b&style=for-the-badge" alt="Profile views" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,postgres,redis,docker" height="36" alt="Java, Spring, Kafka, RabbitMQ, PostgreSQL, Redis, Docker" />
 
-</div>
-
-## 👋 About me
-
-- 🔭 **Lead Integration Engineer** at [IT Space](https://itspace.kz): integrations with Kazakhstan's
-  e-Government services, signed XML pipelines, incident monitoring and data exchange.
-- 🧩 Before that: Java developer at IT Space (event-driven microservices on RabbitMQ, CQRS, Event
-  Sourcing, Transactional Outbox) and at [Kaspi.kz](https://kaspi.kz) (Spring Cloud services and
-  Kafka messaging under high load).
-- 🎓 BSc in Computer Science, Suleyman Demirel University, Almaty.
-- 🏅 National Olympiad in Mathematics, Kazakhstan, 2021: III Degree Diploma.
-
-## 🛠 Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,cpp" alt="Java, Python, TypeScript, JavaScript, C++" />
-
-**Backend and messaging**
-
-<img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,gradle" alt="Spring, Kafka, RabbitMQ, Gradle" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="PostgreSQL, MongoDB, Redis, MySQL" />
-
-**Tools and front end**
-
-<img src="https://skillicons.dev/icons?i=docker,git,vue,nodejs,tailwind" alt="Docker, Git, Vue, Node.js, Tailwind CSS" />
+<a href="https://www.linkedin.com/in/nuraskhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nurashanaldongarov@gmail.com"><img src="https://img.shields.io/badge/nurashanaldongarov%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: nurashanaldongarov@gmail.com" /></a>
 
 </div>
-
-Patterns I use: microservices, CQRS, Event Sourcing, Transactional Outbox, REST and SOAP integrations.
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nuraskhan&hide_border=true&ring=8a5a2b&fire=8a5a2b&currStreakLabel=8a5a2b&background=00000000" alt="Contribution streak" />
-
-</div>
-
-## 📫 Contacts
-
-- LinkedIn: [linkedin.com/in/nuraskhan](https://www.linkedin.com/in/nuraskhan/)
-- Email: [nurashanaldongarov@gmail.com](mailto:nurashanaldongarov@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2118,100:8a5a2b&height=100&section=footer" alt="" width="100%" />
