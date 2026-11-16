@@ -4,12 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8A5A2B&center=true&vCenter=true&width=520&height=32&lines=Backend+Engineer;Distributed+systems+at+scale;Event-driven+architectures" alt="Backend Engineer. Distributed systems at scale. Event-driven architectures." />
 
-Backend engineer building high-load distributed systems in Java.<br />
-At <a href="https://kaspi.kz">Kaspi.kz</a> I built services handling <b>1M+ requests per minute</b> and a Kafka messaging layer
-with exactly-once delivery that cut inter-service latency by <b>15%</b> for millions of users.<br />
-Now Lead Integration Engineer at <a href="https://itspace.kz">IT Space</a>: event-driven microservices
-(CQRS, Event Sourcing, Transactional Outbox) and e-Government integrations.<br />
-BSc Computer Science, SDU · Top 21 in Kazakhstan's National Mathematics Olympiad.
+</div>
+
+**Backend engineer building high-load distributed systems in Java.**
+
+- ⚡ **Scale** — services handling **1M+ requests per minute** at [Kaspi.kz](https://kaspi.kz)
+- 📨 **Messaging** — Kafka layer with exactly-once delivery, **15% lower latency** for millions of users
+- 🧩 **Now** — Lead Integration Engineer at [IT Space](https://itspace.kz): event-driven microservices, e-Government integrations
+- 🎓 **Background** — BSc Computer Science, SDU · Top 21 in Kazakhstan's National Mathematics Olympiad
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,postgres,redis,docker" height="36" alt="Java, Spring, Kafka, RabbitMQ, PostgreSQL, Redis, Docker" />
 
