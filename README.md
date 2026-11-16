@@ -23,8 +23,6 @@
   Kafka messaging under high load).
 - 🎓 BSc in Computer Science, Suleyman Demirel University, Almaty.
 - 🏅 National Olympiad in Mathematics, Kazakhstan, 2021: III Degree Diploma.
-- 🌱 Building [Hangelo](https://meet-again-ui-112b5408b3d1.herokuapp.com/): less planning, more
-  hanging out.
 
 ## 🛠 Stack
 
